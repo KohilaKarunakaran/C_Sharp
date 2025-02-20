@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kohila\\Documents\\Visual Studio 2022\\Visual studio projects\\C_Sharp\\OpintoJaksotApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62472255-471E-4FE6-B5BF-D261C4110EC1}|OpintoJaksotApp\\OpintoJaksotApp.csproj|c:\\users\\kohila\\documents\\visual studio 2022\\visual studio projects\\c_sharp\\opintojaksotapp\\opintojaksotapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62472255-471E-4FE6-B5BF-D261C4110EC1}|OpintoJaksotApp\\OpintoJaksotApp.csproj|solutionrelative:opintojaksotapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62472255-471E-4FE6-B5BF-D261C4110EC1}|OpintoJaksotApp\\OpintoJaksotApp.csproj|c:\\users\\kohila\\documents\\visual studio 2022\\visual studio projects\\c_sharp\\opintojaksotapp\\opintojaksotapp\\opettaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62472255-471E-4FE6-B5BF-D261C4110EC1}|OpintoJaksotApp\\OpintoJaksotApp.csproj|solutionrelative:opintojaksotapp\\opettaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62472255-471E-4FE6-B5BF-D261C4110EC1}|OpintoJaksotApp\\OpintoJaksotApp.csproj|c:\\users\\kohila\\documents\\visual studio 2022\\visual studio projects\\c_sharp\\opintojaksotapp\\opintojaksotapp\\opintojakso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62472255-471E-4FE6-B5BF-D261C4110EC1}|OpintoJaksotApp\\OpintoJaksotApp.csproj|solutionrelative:opintojaksotapp\\opintojakso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62472255-471E-4FE6-B5BF-D261C4110EC1}|OpintoJaksotApp\\OpintoJaksotApp.csproj|c:\\users\\kohila\\documents\\visual studio 2022\\visual studio projects\\c_sharp\\opintojaksotapp\\opintojaksotapp\\opiskelija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62472255-471E-4FE6-B5BF-D261C4110EC1}|OpintoJaksotApp\\OpintoJaksotApp.csproj|solutionrelative:opintojaksotapp\\opiskelija.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Opiskelija.cs",
+              "DocumentMoniker": "C:\\Users\\Kohila\\Documents\\Visual Studio 2022\\Visual studio projects\\C_Sharp\\OpintoJaksotApp\\OpintoJaksotApp\\Opiskelija.cs",
+              "RelativeDocumentMoniker": "OpintoJaksotApp\\Opiskelija.cs",
+              "ToolTip": "C:\\Users\\Kohila\\Documents\\Visual Studio 2022\\Visual studio projects\\C_Sharp\\OpintoJaksotApp\\OpintoJaksotApp\\Opiskelija.cs",
+              "RelativeToolTip": "OpintoJaksotApp\\Opiskelija.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:27:23.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Opintojakso.cs",
+              "DocumentMoniker": "C:\\Users\\Kohila\\Documents\\Visual Studio 2022\\Visual studio projects\\C_Sharp\\OpintoJaksotApp\\OpintoJaksotApp\\Opintojakso.cs",
+              "RelativeDocumentMoniker": "OpintoJaksotApp\\Opintojakso.cs",
+              "ToolTip": "C:\\Users\\Kohila\\Documents\\Visual Studio 2022\\Visual studio projects\\C_Sharp\\OpintoJaksotApp\\OpintoJaksotApp\\Opintojakso.cs",
+              "RelativeToolTip": "OpintoJaksotApp\\Opintojakso.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:25:26.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Opettaja.cs",
+              "DocumentMoniker": "C:\\Users\\Kohila\\Documents\\Visual Studio 2022\\Visual studio projects\\C_Sharp\\OpintoJaksotApp\\OpintoJaksotApp\\Opettaja.cs",
+              "RelativeDocumentMoniker": "OpintoJaksotApp\\Opettaja.cs",
+              "ToolTip": "C:\\Users\\Kohila\\Documents\\Visual Studio 2022\\Visual studio projects\\C_Sharp\\OpintoJaksotApp\\OpintoJaksotApp\\Opettaja.cs",
+              "RelativeToolTip": "OpintoJaksotApp\\Opettaja.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:22:32.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kohila\\Documents\\Visual Studio 2022\\Visual studio projects\\C_Sharp\\OpintoJaksotApp\\OpintoJaksotApp\\Program.cs",
+              "RelativeDocumentMoniker": "OpintoJaksotApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Kohila\\Documents\\Visual Studio 2022\\Visual studio projects\\C_Sharp\\OpintoJaksotApp\\OpintoJaksotApp\\Program.cs",
+              "RelativeToolTip": "OpintoJaksotApp\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:20:22.007Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

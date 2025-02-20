@@ -1,0 +1,14 @@
+C:\Users\Kohila\Documents\Visual Studio 2022\Visual studio projects\C_Sharp\OpintoJaksotApp\OpintoJaksotApp\bin\Debug\net9.0\OpintoJaksotApp.exe
+C:\Users\Kohila\Documents\Visual Studio 2022\Visual studio projects\C_Sharp\OpintoJaksotApp\OpintoJaksotApp\bin\Debug\net9.0\OpintoJaksotApp.deps.json
+C:\Users\Kohila\Documents\Visual Studio 2022\Visual studio projects\C_Sharp\OpintoJaksotApp\OpintoJaksotApp\bin\Debug\net9.0\OpintoJaksotApp.runtimeconfig.json
+C:\Users\Kohila\Documents\Visual Studio 2022\Visual studio projects\C_Sharp\OpintoJaksotApp\OpintoJaksotApp\bin\Debug\net9.0\OpintoJaksotApp.dll
+C:\Users\Kohila\Documents\Visual Studio 2022\Visual studio projects\C_Sharp\OpintoJaksotApp\OpintoJaksotApp\bin\Debug\net9.0\OpintoJaksotApp.pdb
+C:\Users\Kohila\Documents\Visual Studio 2022\Visual studio projects\C_Sharp\OpintoJaksotApp\OpintoJaksotApp\obj\Debug\net9.0\OpintoJaksotApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kohila\Documents\Visual Studio 2022\Visual studio projects\C_Sharp\OpintoJaksotApp\OpintoJaksotApp\obj\Debug\net9.0\OpintoJaksotApp.AssemblyInfoInputs.cache
+C:\Users\Kohila\Documents\Visual Studio 2022\Visual studio projects\C_Sharp\OpintoJaksotApp\OpintoJaksotApp\obj\Debug\net9.0\OpintoJaksotApp.AssemblyInfo.cs
+C:\Users\Kohila\Documents\Visual Studio 2022\Visual studio projects\C_Sharp\OpintoJaksotApp\OpintoJaksotApp\obj\Debug\net9.0\OpintoJaksotApp.csproj.CoreCompileInputs.cache
+C:\Users\Kohila\Documents\Visual Studio 2022\Visual studio projects\C_Sharp\OpintoJaksotApp\OpintoJaksotApp\obj\Debug\net9.0\OpintoJaksotApp.dll
+C:\Users\Kohila\Documents\Visual Studio 2022\Visual studio projects\C_Sharp\OpintoJaksotApp\OpintoJaksotApp\obj\Debug\net9.0\refint\OpintoJaksotApp.dll
+C:\Users\Kohila\Documents\Visual Studio 2022\Visual studio projects\C_Sharp\OpintoJaksotApp\OpintoJaksotApp\obj\Debug\net9.0\OpintoJaksotApp.pdb
+C:\Users\Kohila\Documents\Visual Studio 2022\Visual studio projects\C_Sharp\OpintoJaksotApp\OpintoJaksotApp\obj\Debug\net9.0\OpintoJaksotApp.genruntimeconfig.cache
+C:\Users\Kohila\Documents\Visual Studio 2022\Visual studio projects\C_Sharp\OpintoJaksotApp\OpintoJaksotApp\obj\Debug\net9.0\ref\OpintoJaksotApp.dll
