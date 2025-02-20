@@ -12,3 +12,4 @@ C:\Users\Kohila\Documents\Visual Studio 2022\Visual studio projects\C_Sharp\Opin
 C:\Users\Kohila\Documents\Visual Studio 2022\Visual studio projects\C_Sharp\OpintoJaksotApp\OpintoJaksotApp\obj\Debug\net9.0\OpintoJaksotApp.pdb
 C:\Users\Kohila\Documents\Visual Studio 2022\Visual studio projects\C_Sharp\OpintoJaksotApp\OpintoJaksotApp\obj\Debug\net9.0\OpintoJaksotApp.genruntimeconfig.cache
 C:\Users\Kohila\Documents\Visual Studio 2022\Visual studio projects\C_Sharp\OpintoJaksotApp\OpintoJaksotApp\obj\Debug\net9.0\ref\OpintoJaksotApp.dll
+C:\Users\Kohila\Documents\Visual Studio 2022\Visual studio projects\C_Sharp\OpintoJaksotApp\OpintoJaksotApp\obj\Debug\net9.0\OpintoJaksotApp.sourcelink.json
